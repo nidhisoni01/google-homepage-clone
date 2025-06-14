@@ -17,10 +17,10 @@ function Header() {
   return (
     <header className="w-full flex justify-end p-4 text-sm text-gray-700 dark:text-white">
       <div className="flex items-center space-x-4">
-        <a href="#" className="hover:underline">
+        <a href="https://mail.google.com" className="hover:underline">
           Gmail
         </a>
-        <a href="#" className="hover:underline">
+        <a href="https://images.google.com" className="hover:underline">
           Images
         </a>
 
